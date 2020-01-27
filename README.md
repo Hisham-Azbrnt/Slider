@@ -1,3 +1,3 @@
 # Slider
-Created Slider with JavaScript
-To run this project, you must run it on a server
+Created Slider with JavaScript but
+to run this project, you must run it on a server
